@@ -12,3 +12,4 @@ Git is a free software.
 >>>>>>> e5a9377 (fix bug 101‘)
 >>>>>>> dev
 
+Git is a bug.
